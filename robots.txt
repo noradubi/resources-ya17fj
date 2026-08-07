@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noradubi.github.io/resources-ya17fj/sitemap.xml
